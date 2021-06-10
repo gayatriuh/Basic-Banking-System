@@ -14,8 +14,11 @@ No Login Page. No User Creation. Only transfer of money between multiple users.
 
 Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in github.
 
-Technologies Used  
+Technologies Used
+
   Front-End: HTML/Bootstrap/CSS​
+  
   Back-End: PHP​ /JavaScript​
+  
   Database : MySQL
 
